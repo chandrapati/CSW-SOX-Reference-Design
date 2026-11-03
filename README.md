@@ -53,7 +53,7 @@ Three points worth stating plainly to a customer:
 
 | Document | For | Use it to |
 |---|---|---|
-| **[Reference Design](CSW-SOX-Reference-Design.md)** | SE / platform / security engineering | Build CSW end-to-end: scope architecture keyed on the SOX boundary, close-cycle ADM, enforcement, per-objective evidence |
+| **Reference Design** — [MD](CSW-SOX-Reference-Design.md) · [PDF](CSW-SOX-Reference-Design.pdf) · [DOCX](CSW-SOX-Reference-Design.docx) · [HTML](CSW-SOX-Reference-Design.html) | SE / platform / security engineering | Build CSW end-to-end: scope architecture keyed on the SOX boundary, close-cycle ADM, enforcement, per-objective evidence |
 | **[Evidence Checklist](docs/evidence-checklist.md)** | Evidence owner | A printable "what to export, from where, how often" worklist with IPE cover records |
 | **[POV / Workshop Plan](docs/pov-plan.md)** | SE + customer | Run a scoped ~70-day proof-of-value on one financial reporting boundary |
 
