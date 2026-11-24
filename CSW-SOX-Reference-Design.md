@@ -69,6 +69,8 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 Execute these phases for **this framework's** compliance boundary. Map exports to control objectives in the **Reporting & Evidence** section below.
 
+![CSW evidence workflow for SOX ITGC — the four phases from agent coverage through continuous proof, with the evidence artifact produced at each phase](assets/csw-evidence-workflow.png)
+
 | Phase | Goal | Key CSW actions | Typical duration |
 |-------|------|-----------------|------------------|
 | **1 — Coverage** | Every in-scope workload in CSW | Install agents/connectors; apply SOX labels; create scope | Days 1–10 |
@@ -227,6 +229,8 @@ CSW UI → Manage → Agents
 ### 4.1 SOX-Aligned Scope Hierarchy
 
 Design scopes to mirror the financial reporting architecture and the business cycles in your scoping memo, not network topology:
+
+![SOX ITGC scope architecture — the recommended CSW scope hierarchy, with label-driven membership so the boundary stays current](assets/csw-scope-architecture.png)
 
 ```
 Root Scope
